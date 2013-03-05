@@ -1,9 +1,11 @@
-# restart
+# 前端收藏
 
-## 2013
+## Tools
 
-- 每周锻炼2次，每次45分钟
-- 看完编译原理，算法导论，并完成习题
-- 背完nce2下，nce3，英语词汇的奥秘，看完朗文英语语法
-- 2次5天以上的长途旅行
-- 工作专注做好一件事情
+- [nproxy](https://github.com/goddyZhao/nproxy) node 写的的跨平台 fiddler
+
+## UI
+
+- [Flat UI](http://designmodo.github.com/Flat-UI/) 基于 bootstrap 的平面化风格 UI
+
+
