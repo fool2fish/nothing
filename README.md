@@ -1,5 +1,9 @@
 # 前端收藏
 
+## NodeJS
+
+- [模块推荐](https://github.com/joyent/node/wiki/modules)
+
 ## Tools
 
 - [nproxy](https://github.com/goddyZhao/nproxy) node 写的的跨平台 fiddler
