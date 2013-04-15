@@ -6,7 +6,8 @@
 
 ## Tools
 
-- [nproxy](https://github.com/goddyZhao/nproxy) node 写的的跨平台 fiddler
+- [ascii.io](http://ascii.io/) 终端录制工具
+- [nproxy](https://github.com/goddyZhao/nproxy) node 写的跨平台 fiddler
 
 ## UI
 
