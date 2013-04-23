@@ -3,9 +3,6 @@
 ## NodeJS
 
 - [模块推荐](https://github.com/joyent/node/wiki/modules)
-
-## Tools
-
 - [ascii.io](http://ascii.io/) 终端录制工具
 - [nproxy](https://github.com/goddyZhao/nproxy) node 写的跨平台 fiddler
 
@@ -17,6 +14,6 @@
 
 - [layoutit](http://www.layoutit.com/)
 
-## 办公
+## Office
 
 - [join me](https://join.me/) web屏幕共享
