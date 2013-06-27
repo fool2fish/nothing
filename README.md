@@ -1,4 +1,4 @@
-# 前端收藏
+# 各种收藏
 
 ## NodeJS
 
@@ -9,6 +9,8 @@
 - [request](https://github.com/mikeal/request) 简单好用的 http 请求封装 
 - [node-semver](https://github.com/isaacs/node-semver) 各种版本检查
 - [liverload](http://livereload.com/) 即时刷新
+- [forever](https://github.com/nodejitsu/forever) - 让脚本持续运行的命令行工具
+- [pm2](https://github.com/Unitech/pm2) - 号称比 forever 好很多的东西
 
 ## UI
 
