@@ -11,6 +11,7 @@
 - [liverload](http://livereload.com/) 即时刷新
 - [forever](https://github.com/nodejitsu/forever) - 让脚本持续运行的命令行工具
 - [pm2](https://github.com/Unitech/pm2) - 号称比 forever 好很多的东西
+- [nvm](https://github.com/creationix/nvm) - node 版本管理器
 
 ## UI
 
