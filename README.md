@@ -12,6 +12,7 @@
 - [forever](https://github.com/nodejitsu/forever) - 让脚本持续运行的命令行工具
 - [pm2](https://github.com/Unitech/pm2) - 号称比 forever 好很多的东西
 - [nvm](https://github.com/creationix/nvm) - node 版本管理器
+- [rewire](https://github.com/jhnns/rewire) - 私有方法设置和获取
 
 ## UI
 
