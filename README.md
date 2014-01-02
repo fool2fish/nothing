@@ -31,5 +31,5 @@
 - [《编译原理》](https://github.com/fool2fish/dragon-book-exercise-answers) 前半本，[《C 程序设计语言》](https://github.com/fool2fish/the-c-programming-language-exercise-answers)
 - [totoro](http://totorojs.org)，支付宝收银台
 - 背完《NCE2》,一半《就这 900 句玩转英语口语》
-- 陕西，[台湾](https://github.com/fool2fish/blog/issues/2)，马来西亚
+- 西安，[台湾](https://github.com/fool2fish/blog/issues/2)，马来西亚
 - !! 上半年坚持的不错，下半年入冬后几乎不运动，需要重点改进
