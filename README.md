@@ -1,27 +1,35 @@
-# 各种收藏
+# 做更好的自己
 
-## NodeJS
+## 2014
 
-- [模块推荐](https://github.com/joyent/node/wiki/modules)
-- [ascii.io](http://ascii.io/) 终端录制工具
-- [nproxy](https://github.com/goddyZhao/nproxy) node 写的跨平台 fiddler
-- [git-extras](https://github.com/visionmedia/git-extras) git 增强
-- [request](https://github.com/mikeal/request) 简单好用的 http 请求封装 
-- [node-semver](https://github.com/isaacs/node-semver) 各种版本检查
-- [liverload](http://livereload.com/) 即时刷新
-- [forever](https://github.com/nodejitsu/forever) - 让脚本持续运行的命令行工具
-- [pm2](https://github.com/Unitech/pm2) - 号称比 forever 好很多的东西
-- [nvm](https://github.com/creationix/nvm) - node 版本管理器
-- [rewire](https://github.com/jhnns/rewire) - 私有方法设置和获取
+2014.01.02
 
-## UI
+#### 计划
 
-- [Flat UI](http://designmodo.github.com/Flat-UI/) 基于 bootstrap 的平面化风格 UI
+- 《编译原理》后半本，《深入理解操作系统》
+- 工作做对 2 年后仍有益的事情
+- 使用英文书籍、资料
+- 《就这 900 句玩转英语口语》
+- 每周背一段英文
+- 2 次旅行
+- 每周锻炼 2 次
 
-## Mashup
+## 2013
 
-- [layoutit](http://www.layoutit.com/)
+3013.03.05
 
-## Office
+#### 计划
 
-- [join me](https://join.me/) web屏幕共享
+- 《编译原理》、《算法导论》
+- 工作专注做好一件事
+- 《NCE2》、《NCE3》
+- 每周锻炼2次，每次45分钟
+- 2次5天以上的长途旅行
+
+#### 总结
+
+- [《编译原理》](https://github.com/fool2fish/dragon-book-exercise-answers) 前半本，[《C 程序设计语言》](https://github.com/fool2fish/the-c-programming-language-exercise-answers)
+- [totoro](http://totorojs.org)，支付宝收银台
+- 背完《NCE2》,一半《就这 900 句玩转英语口语》
+- 陕西，[台湾](https://github.com/fool2fish/blog/issues/2)，马来西亚
+- !! 上半年坚持的不错，下半年入冬后几乎不运动，需要重点改进
